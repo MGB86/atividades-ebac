@@ -9,6 +9,5 @@ public class TestCasting {
 
         Integer in = i;
         System.out.println(in);
-
     }
 }
